@@ -1,0 +1,31 @@
+{
+  "book": [
+	{
+		"id": "1",
+		"name": "Eloquent JavaScript",
+		"author": "Marijn Haverbeke",
+		"isbn": "165464576456",
+		"description": "This is a book about JavaScript, programming, and the wonders of the digital.",
+		"photoUrl": "/assets/img/eloquent_javascript.jpeg",
+		"price": "98000"
+	},
+	{
+		"id": "2",
+		"name": "Aprender PHP, MySQL y JavaScript",
+		"author": "Robin Nixon",
+		"isbn": "265464576456",
+		"description": "Aprenda a utilizar las tecnologías web para desarrollo de aplicaciones.",
+		"photoUrl": "/assets/img/aprender_php.jpeg",
+		"price": "110000"
+	},
+	{
+		"id": "3",
+		"name": "Clean Code",
+		"author": "Robert C. Martin",
+		"isbn": "365464576456",
+		"description": "Learn the clean code principles.",
+		"photoUrl": "/assets/img/clean_code.jpeg",
+		"price": "215000"
+	}
+  ]
+}
