@@ -1,4 +1,12 @@
-Project for the unit test course
+Proyecto para realizar Unit Tests del lado del front en Angular con Jasimne y Karma
+
+Después de haber descargado el repo e instalado los módulos de node (npm i):
+1. Abrir una terminal e instalar json-server: npm install -g json-server
+2. En la misma terminal, poner a correr el json-server con: json-server --watch db.json
+3. Abrir otra terminal y poner a correr la app: ng serve --o
+4. Abrir otra terminal y poner a correr los tests con: ng test
+
+
 
 # BookListApp
 
